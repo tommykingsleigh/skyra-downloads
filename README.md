@@ -1,2 +1,2 @@
 # skyra-downloads
-Official Skyra for macOS downloads
+Official Skyra for downloads of the latest release.
